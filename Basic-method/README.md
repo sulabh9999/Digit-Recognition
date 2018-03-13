@@ -14,7 +14,7 @@ Python3 code to recognize number in given image, here i have implemented basic a
 * matplotlib
 
 ### Configuration
-* Download image [dataset](http://sentdex.com/tutorialsmages.zip)
+* Download image [dataset](http://sentdex.com/tutorialimages.zip)
 
 ```sh
 $ cd Download
